@@ -15,5 +15,5 @@ Estrutura do Projeto
 
 Contato
 - 📧 Email: pelagio985@gmail.com`
-- 🌐 Website: https://wa.me/qr/WCDYWCSF6FR7B1
+- 🌐 Website: https://onlinecyber985.github.io
 - 📱 WhatsApp: `+258 867409518
